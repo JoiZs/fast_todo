@@ -68,3 +68,8 @@ class Task(BaseModel):
 4. **POST** - "/create" (**creating a new task**)
 5. **PUT** - "/tasks/{task_id}" (**updating a new task**)
 6. **DELETE** - "/tasks/{task_id}" (**deleting a task**)
+
+## Demo
+
+Ping test using Postman.
+![Pingtest](./public/pingtest.png)
